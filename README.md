@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quimmey
 - 👀 I’m interested in data analyst, blockchain dev.
-- 🌱 I’m currently learning python, js, nodejs.
+- 🌱 I’m currently learning fullstack JAVA (Spring), js, nodejs.
 - 📫 How to reach me ...
 
 <!---
