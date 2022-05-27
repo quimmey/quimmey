@@ -13,6 +13,5 @@ I suggest you start with <a href="https://github.com/quimmey/ProyectoG8">Random 
 
 ### 📫
 Reach out to me: https://www.linkedin.com/in/quimey-lorenzo-polimeni-51ab6b138/
-Portfolio:https://quimmey.github.io/portfolio/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aglowkeys&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Portfolio:https://quimmey.github.io/portfolio/
