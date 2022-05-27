@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @quimmey
-- 👀 I’m interested in data analyst, blockchain dev.
-- 🌱 I’m currently learning fullstack JAVA (Spring), js, nodejs.
-- 📫 How to reach me ...
+## Hello there! I am Quimey 👋
 
-<!---
-quimmey/quimmey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a FullStack developer in progress!
+Feel free to browse through my repositories. 
+I suggest you start with <a href="https://github.com/quimmey/ProyectoG8">Random Clothes E-Commerce</a>
+
+### My skills include:
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FAFAFA)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FAFAFA)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=FAFAFA)
+
+### 📫
+Reach out to me: https://www.linkedin.com/in/quimey-lorenzo-polimeni-51ab6b138/
+Portfolio:https://quimmey.github.io/portfolio/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aglowkeys&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
