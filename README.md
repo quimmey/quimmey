@@ -3,6 +3,7 @@
 I am a FullStack developer in progress!
 Feel free to browse through my repositories. 
 I suggest you start with <a href="https://github.com/quimmey/ProyectoG8">Random Clothes E-Commerce</a>
+https://quimmey.github.io/RandomClothes-E-Commerce/
 
 ### My skills include:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FAFAFA)
@@ -13,5 +14,3 @@ I suggest you start with <a href="https://github.com/quimmey/ProyectoG8">Random 
 
 ### 📫
 Reach out to me: https://www.linkedin.com/in/quimey-lorenzo-polimeni-51ab6b138/
-
-Portfolio:https://quimmey.github.io/portfolio/
