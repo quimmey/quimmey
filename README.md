@@ -10,7 +10,6 @@ https://quimmey.github.io/RandomClothes-E-Commerce/
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FAFAFA)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=FAFAFA)
 
 ### 📫
 Reach out to me: https://www.linkedin.com/in/quimey-lorenzo-polimeni-51ab6b138/
